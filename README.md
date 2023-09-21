@@ -1,4 +1,3 @@
-# Polis
 <img src="https://0xprimordia.github.io/Polis/assets/logo.png" />
 
 ## Tactical RPG / Colony Sim
