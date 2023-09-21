@@ -1,4 +1,4 @@
-<img src="https://0xprimordia.github.io/Polis/assets/logo.png" />
+<img src="https://0xprimordia.github.io/Polis/assets/logo.png" width="200" />
 
 ## Tactical RPG / Colony Sim
 Manage your family and Villa, play your family’s Hoplites across intense RPG/Tactical battles, a detailed event system and epic mythic quests.
