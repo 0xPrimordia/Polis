@@ -8,5 +8,5 @@ With Polis having such a grand scale, development will be split into a series of
 Deploy your characters based on their traits and relationships with adjacent characters. Chose between 2 rows or square formation, deeper columns providing greater defensive bonus and more columns allowing for flanking opportunity at the expense of a thinner line.
 
 
-![alt text]([/assets/deployment-1.png | width=250px])
+<img src="/assets/deployment-1.png" width="250" />
 ![alt text](/assets/deployment-2.png)
