@@ -6,3 +6,4 @@ With Polis having such a grand scale, development will be split into a series of
 
 ## Battle Mini Game
 ![alt text](/assets/deployment-1.png)
+![alt text](/assets/deployment-2.png)
