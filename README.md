@@ -23,13 +23,13 @@ an action again until all other character’s currently playable have used their
 
 ## Battle Phases
 
-<img src="https://0xprimordia.github.io/Polis/assets/fatigue.png" width="450" />
-
 Through the course of the battle, a fatigue meter will wear down. At certain 
 points both sides will pull back allowing a reprieve for adjustments to positions and healing actions.
 
-<img src="https://0xprimordia.github.io/Polis/assets/sundial.png" width="150" />
+<img src="https://0xprimordia.github.io/Polis/assets/fatigue.png" width="450" />
 
 At sunset, both sides withdraw and return to the camp to continue the next day. At this point you can 
 re-enforce, if you have the reserves available.
+
+<img src="https://0xprimordia.github.io/Polis/assets/sundial.png" width="150" />
 
