@@ -67,7 +67,7 @@ center to recover.
 ### Frontline Caveats
 
 The frontline is engaged and thus cannot be swapped until there is a reprieve (see battle phases). There is also a check against Arete for frontline units that
-effects morale. If a character is already suffering a negative moral, there disposition is compounded. All of these conditions apply to units maneuvered to frontline
+effects morale. If a character is already suffering a negative moral, their disposition is compounded. All of these conditions apply to units maneuvered to frontline
 during battle as well as there state at deployment.
 
 
