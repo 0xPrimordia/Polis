@@ -1,6 +1,6 @@
 <img src="https://0xprimordia.github.io/Polis/assets/logo.png" width="200" />
 
-## Tactical RPG
+## Tactical / RPG
 Lead your Hoplites across intense RPG/Tactical battles, a detailed event system and epic mythic quests.
 
 With Polis having such a grand scale, development will be split into a series of mini games with a final phase of tying them together. This repo is aimed at our first goal, the battle mini game.
