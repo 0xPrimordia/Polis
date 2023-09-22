@@ -11,3 +11,7 @@ Deploy your characters based on their traits and relationships with adjacent cha
 
 <img src="https://0xprimordia.github.io/Polis/assets/deployment-1.png" width="600" />
 <img src="https://0xprimordia.github.io/Polis/assets/deployment-2.png" width="600" />
+
+A Hoplite is measured by his <a href="https://en.wikipedia.org/wiki/Arete" target="_blank">Arete</a> which is derived from a base value of talent, training points, ancillaries, moral and fitness (a possible penalty from injury).
+
+<img src="https://0xprimordia.github.io/Polis/assets/character-card.png" width="600" />
