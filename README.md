@@ -40,3 +40,14 @@ select an opposing column to attempt to shove back two spaces. Some math we have
 successful, two of your characters will push into their line. Once invoked, it has a X turn(s) cool down and all your player actions
 are skipped for one turn.
 
+## Position and Actions
+
+Available actions depend on the position of the hoplite, each row allowing for certain attacks or special actions (such as "maneuver").
+
+<img src="https://0xprimordia.github.io/Polis/assets/actions.png" />
+
+### Sword Strike
+
+A close rannge attack only available to frontline units. A d(x) check to cause (y) to the opponent directly in front.
+
+
