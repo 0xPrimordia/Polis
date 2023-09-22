@@ -61,7 +61,7 @@ to an empty adjacent position. Lastly, they can throw a javelin (up to x ammunit
 
 ### Support Abilities
 
-In addition to Rear abilities, support can heal restoring their moral and potentially decreasing any fitness nerfs. Thus you cann cycle units back from the 
+In addition to Rear abilities, support can heal restoring their moral and potentially decreasing any fitness nerfs. Thus you cnn cycle units back from the 
 center to recover.
 
 ### Frontline Swapping
