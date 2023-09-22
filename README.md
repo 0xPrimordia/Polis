@@ -69,6 +69,3 @@ center to recover.
 The frontline is engaged and thus cannot be swapped until there is a reprieve (see battle phases). There is also a check against Arete for frontline units that
 effects morale. If a character is already suffering a negative moral, their disposition is compounded. All of these conditions apply to units maneuvered to frontline
 during battle as well as their state at deployment.
-
-
-
