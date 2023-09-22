@@ -28,6 +28,6 @@ points both sides will pull back allowing a reprieve for adjustments to position
 At sunset, both sides withdraw and return to the camp to continue the next day. At this point you can 
 re-enforce, if you have the reserves available.
 
-<img src="https://0xprimordia.github.io/Polis/assets/sundial.png" width="200" />
+<img src="https://0xprimordia.github.io/Polis/assets/sundial.png" width="150" />
 
-<img src="https://0xprimordia.github.io/Polis/assets/fatigue.png" width="300" />
+<img src="https://0xprimordia.github.io/Polis/assets/fatigue.png" width="400" />
