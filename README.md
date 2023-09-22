@@ -56,8 +56,8 @@ A longer rage attack that can target the opposing frontline or center line unit,
 
 ### Rear Position Abilities
 
-Rear (3rd position) units can swap with the center unit directly in front of them or the rear unit to the right or left. They can also be maneuvered
-to an empty adjacent position. Lastly, they can throw a javelin (up to x ammunition) which is a distance strike at any unit within range (formula needed).
+Rear (3rd position) units can swap with the center unit directly in front, left or right of them. They can also be maneuvered
+to an empty adjacent position. Lastly, they can throw a javelin (up to x ammunition) as a distance strike at any unit within range.
 
 ### Support Abilities
 
