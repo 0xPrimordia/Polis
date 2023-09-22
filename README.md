@@ -33,3 +33,10 @@ re-enforce, if you have the reserves available.
 
 <img src="https://0xprimordia.github.io/Polis/assets/sundial.png" width="150" />
 
+## Othismos
+
+If all character’s ability is active (can be used per above) then one can invoke Othismos. You will be prompted to
+select an opposing column to attempt to shove back two spaces. Some math we have to finalize will be applied and if 
+successful, two of your characters will push into their line. Once invoked, it has a X turn(s) cool down and your player actions
+are skipped for one turn.
+
