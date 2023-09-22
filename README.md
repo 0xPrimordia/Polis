@@ -48,6 +48,6 @@ Available actions depend on the position of the hoplite, each row allowing for c
 
 ### Sword Strike
 
-A close rannge attack only available to frontline units. A d(x) check to cause (y) to the opponent directly in front.
+A close range attack only available to frontline units. A d(x) check to cause (y) to the opponent directly in front.
 
 
