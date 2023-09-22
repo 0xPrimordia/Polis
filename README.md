@@ -50,4 +50,23 @@ Available actions depend on the position of the hoplite, each row allowing for c
 
 A close range attack only available to frontline units. A d(x) check to cause (y) to the opponent directly in front.
 
+### Spear Strike
+
+A longer rage attack that can target the opposing frontline or center line unit, only available to the center line units.
+
+### Rear Position Abilities
+
+Rear (3rd position) units can swap with the center unit directly in front of them or the rear unit to the right or left. They can also be maneuvered
+to an empty adjacent position. Lastly, they can throw a javelin (up to x ammunition) which is a distance strike at any unit within range (formula needed).
+
+### Support Abilities
+
+In addition to Rear abilities, support can heal restoring their moral and potentially decreasing any fitness nerfs. Thus you cann cycle units back from the 
+center to recover.
+
+### Frontline Swapping
+
+The frontline is engaged and thus cannot be swapped until there is a reprieve (see battle phases). 
+
+
 
