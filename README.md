@@ -15,3 +15,8 @@ Deploy your characters based on their traits and relationships with adjacent cha
 A Hoplite is measured by his <a href="https://en.wikipedia.org/wiki/Arete" target="_blank">Arete</a> which is derived from a base value of talent, training points, ancillaries, moral and fitness (a possible penalty from injury).
 
 <img src="https://0xprimordia.github.io/Polis/assets/character-card.png" width="600" />
+
+## Battle Turns
+
+Each turn you can pick one characters action. Once that character’s action has been used, he cannot use
+an action again until all other character’s currently playable have used their actions. 
