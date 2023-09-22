@@ -37,6 +37,6 @@ re-enforce, if you have the reserves available.
 
 If all character’s ability is active (can be used per above) then one can invoke Othismos. You will be prompted to
 select an opposing column to attempt to shove back two spaces. Some math we have to finalize will be applied and if 
-successful, two of your characters will push into their line. Once invoked, it has a X turn(s) cool down and your player actions
+successful, two of your characters will push into their line. Once invoked, it has a X turn(s) cool down and all your player actions
 are skipped for one turn.
 
