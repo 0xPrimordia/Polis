@@ -12,7 +12,7 @@ Deploy your characters based on their traits and relationships with adjacent cha
 <img src="https://0xprimordia.github.io/Polis/assets/deployment-1.png" width="600" />
 <img src="https://0xprimordia.github.io/Polis/assets/deployment-2.png" width="400" />
 
-A Hoplite is measured by his <a href="https://en.wikipedia.org/wiki/Arete" target="_blank">Arete</a> which is derived from a base value of talent, training points, ancillaries, moral and fitness (a possible penalty from injury). Certain traits and overall Arete can give advanbtages or disadvantages to certain positions, ie a lower level of Arete will suffer penalties for the frontline position and a veteran might gain bonuses for frontline deployment.
+A Hoplite is measured by his <a href="https://en.wikipedia.org/wiki/Arete" target="_blank">Arete</a> which is derived from a base value of talent, training points, ancillaries, morale and fitness (a possible penalty from injury). Certain traits and overall Arete can give advanbtages or disadvantages to certain positions, ie a lower level of Arete will suffer penalties for the frontline position and a veteran might gain bonuses for frontline deployment.
 
 <img src="https://0xprimordia.github.io/Polis/assets/character-card.png" width="600" />
 
@@ -61,12 +61,14 @@ to an empty adjacent position. Lastly, they can throw a javelin (up to x ammunit
 
 ### Support Abilities
 
-In addition to Rear abilities, support can heal restoring their moral and potentially decreasing any fitness nerfs. Thus you cnn cycle units back from the 
+In addition to Rear abilities, support can heal restoring their morale and potentially decreasing any fitness nerfs. Thus you cnn cycle units back from the 
 center to recover.
 
-### Frontline Swapping
+### Frontline Caveats
 
-The frontline is engaged and thus cannot be swapped until there is a reprieve (see battle phases). 
+The frontline is engaged and thus cannot be swapped until there is a reprieve (see battle phases). There is also a check against Arete for frontline units that
+effects morale. If a character is already suffering a negative moral, there disposition is compounded. All of these conditions apply to units maneuvered to frontline
+during battle as well as there state at deployment.
 
 
 
