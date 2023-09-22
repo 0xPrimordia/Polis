@@ -18,5 +18,5 @@ A Hoplite is measured by his <a href="https://en.wikipedia.org/wiki/Arete" targe
 
 ## Battle Turns
 
-Each turn you can pick one characters action. Once that character’s action has been used, he cannot use
+Each turn you can pick one character's action. Once that character’s action has been used, he cannot use
 an action again until all other character’s currently playable have used their actions. 
