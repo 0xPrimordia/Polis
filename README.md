@@ -12,7 +12,7 @@ Deploy your characters based on their traits and relationships with adjacent cha
 <img src="https://0xprimordia.github.io/Polis/assets/deployment-1.png" width="600" />
 <img src="https://0xprimordia.github.io/Polis/assets/deployment-2.png" width="400" />
 
-A Hoplite is measured by his <a href="https://en.wikipedia.org/wiki/Arete" target="_blank">Arete</a> which is derived from a base value of talent, training points, ancillaries, morale and fitness (a possible penalty from injury). Certain traits and overall Arete can give advanbtages or disadvantages to certain positions, ie a lower level of Arete will suffer penalties for the frontline position and a veteran might gain bonuses for frontline deployment.
+A Hoplite is measured by his <a href="https://en.wikipedia.org/wiki/Arete" target="_blank">Arete</a> which is derived from a base value of talent, training points, ancillaries, morale and fitness (a possible penalty from injury). Certain traits and overall Arete can give advantages or disadvantages to certain positions, ie a lower level of Arete will suffer penalties for the frontline position and a veteran might gain bonuses for frontline deployment.
 
 <img src="https://0xprimordia.github.io/Polis/assets/character-card.png" width="600" />
 
